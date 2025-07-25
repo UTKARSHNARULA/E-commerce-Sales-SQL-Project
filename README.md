@@ -48,9 +48,3 @@ to revenue trends, product performance, regional variations, and customer behavi
 - Promote high-value payment methods with loyalty or cashback offers.
 
 ---
-
-## 📈 Coming Soon: Tableau Dashboard
-
-I’ll be building a Tableau dashboard based on this same dataset to mimic a **real-world analytics 
-workflow**, where multiple tools are used to explore, analyze, and communicate data insights effectively.
----
